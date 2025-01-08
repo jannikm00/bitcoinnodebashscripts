@@ -1,0 +1,1 @@
+./bitcoind -connect=ip adress
